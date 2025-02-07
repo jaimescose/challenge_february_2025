@@ -1,0 +1,18 @@
+[
+    {
+      "input": ["bank", "kanb"],
+      "expected": true
+    },
+    {
+      "input": ["attack", "defend"],
+      "expected": false
+    },
+    {
+      "input": ["kelb", "kelb"],
+      "expected": true
+    },
+    {
+      "input": ["aa", "ac"],
+      "expected": false
+    }
+  ]
